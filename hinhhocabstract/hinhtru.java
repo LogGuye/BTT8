@@ -1,6 +1,6 @@
 package hinhhocabstract;
 import java.util.Scanner;
-public class hinhtru extends hinhtron {
+class hinhtru extends hinhtron {
     private float chieucao;
     public hinhtru() {
         ten = "hình trụ";
